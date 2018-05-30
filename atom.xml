@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="chenrongrong.info/"/>
-  <updated>2018-05-27T12:49:02.038Z</updated>
+  <updated>2018-05-30T03:04:24.332Z</updated>
   <id>chenrongrong.info/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>面试汇总</title>
+    <link href="chenrongrong.info/2018/05/30/interview-in-all/"/>
+    <id>chenrongrong.info/2018/05/30/interview-in-all/</id>
+    <published>2018-05-30T03:03:12.000Z</published>
+    <updated>2018-05-30T03:04:24.332Z</updated>
+    
+    <content type="html"><![CDATA[<p>#This is first blog</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#This is first blog&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="java" scheme="chenrongrong.info/categories/java/"/>
+    
+    
+      <category term="面试题" scheme="chenrongrong.info/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
