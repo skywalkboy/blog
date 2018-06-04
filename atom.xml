@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="chenrongrong.info/"/>
-  <updated>2018-05-30T03:04:24.332Z</updated>
+  <updated>2018-06-04T11:49:58.716Z</updated>
   <id>chenrongrong.info/</id>
   
   <author>
@@ -17,20 +17,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>面试汇总</title>
-    <link href="chenrongrong.info/2018/05/30/interview-in-all/"/>
-    <id>chenrongrong.info/2018/05/30/interview-in-all/</id>
-    <published>2018-05-30T03:03:12.000Z</published>
-    <updated>2018-05-30T03:04:24.332Z</updated>
+    <title>自己在用的IDEA插件</title>
+    <link href="chenrongrong.info/2018/06/03/idea-plugin/"/>
+    <id>chenrongrong.info/2018/06/03/idea-plugin/</id>
+    <published>2018-06-03T03:41:39.000Z</published>
+    <updated>2018-06-04T11:49:58.716Z</updated>
     
-    <content type="html"><![CDATA[<p>#This is first blog</p>]]></content>
+    <content type="html"><![CDATA[<blockquote></blockquote><p>周末用了<code>SpaceSnif</code>清理了下电脑WINDOW，看到升级之前IDEA的版本占用了几个G内存，<br>就直接删除了。后面就不得不重新安装<code>IDEA</code>上面的插件跟设置了，之前安装的插件不多，常用的也就那么几个，记录下下次备用</p><ol><li><em>Mybatis plugin by codemagic</em></li><li><em>Material Theme UI</em></li><li><em>Grep console</em></li></ol><h6 id="Mybatis-plugin"><a href="#Mybatis-plugin" class="headerlink" title="Mybatis plugin"></a>Mybatis plugin</h6><p><code>Mybatis plugin</code>是mybatis开发的得力，需要crack。<a href="https://shawnho.me/" target="_blank" rel="noopener">mybatis plugin crack</a>这个博主的版本可以使用，但是插件的版本跟IDEA的版本关联比较大，<code>ideaagent v1.2</code>版本对应的插件版本是<code>3.58</code>，需要自己从网上下载安装。</p><h6 id="Material-Theme-UI"><a href="#Material-Theme-UI" class="headerlink" title="Material Theme UI"></a>Material Theme UI</h6><p>顾名思义就是一个UI插件，安装后就是程序员特色的颜色效果</p><h6 id="Grep-console"><a href="#Grep-console" class="headerlink" title="Grep console"></a>Grep console</h6><p>IDEA控制台日志输出的时候不同日志级别可以用颜色自定义区分</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>继续发现好用的插件，其实我们也可以通过浏览<a href="https://plugins.jetbrains.com/idea" target="_blank" rel="noopener">插件库</a>查看比较常用的插件。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#This is first blog&lt;/p&gt;
-
+        &lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;周末用了&lt;code&gt;SpaceSnif&lt;/code&gt;清理了下电脑WINDOW，看到升级之前IDEA的版本占用了几个G内存，&lt;br&gt;就直接删除了。后面就不得不重新安装&lt;code&gt;IDEA&lt;/code&gt;上面的插件跟设置了，之
+      
+    
+    </summary>
+    
+      <category term="java" scheme="chenrongrong.info/categories/java/"/>
+    
+    
+      <category term="工具" scheme="chenrongrong.info/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA面试题汇总</title>
+    <link href="chenrongrong.info/2018/05/30/interview-in-all/"/>
+    <id>chenrongrong.info/2018/05/30/interview-in-all/</id>
+    <published>2018-05-30T03:03:12.000Z</published>
+    <updated>2018-06-01T04:49:13.604Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Hash table based implementation of the <tt>Map</tt> interface.  This<br>implementation provides all of the optional map operations, and permits</p><p><tt>null</tt> values and the <tt>null</tt> key.  (The <tt>HashMap</tt><br>class is roughly equivalent to <tt>Hashtable</tt>, except that it is<br>unsynchronized and permits nulls</p></blockquote><h1 id="This-is-first-blog"><a href="#This-is-first-blog" class="headerlink" title="This is first blog"></a>This is first blog</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;Hash table based implementation of the &lt;tt&gt;Map&lt;/tt&gt; interface.  This&lt;br&gt;implementation provides all of the optional map oper
       
     
     </summary>
@@ -47,15 +74,19 @@
     <link href="chenrongrong.info/2018/05/27/hello-world/"/>
     <id>chenrongrong.info/2018/05/27/hello-world/</id>
     <published>2018-05-27T07:19:51.513Z</published>
-    <updated>2018-05-27T12:49:02.038Z</updated>
+    <updated>2018-06-01T04:43:33.747Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>引用语法：&gt; </p><p>..</p></blockquote><p><img src="http: //图片地址" alt="图片名称"><br><a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a></p><blockquote><p>1 test</p><blockquote><p>2</p><blockquote><p>3</p></blockquote></blockquote></blockquote><p><code>Welcome</code> to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find thxe answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;blockquote&gt;
+&lt;p&gt;引用语法：&amp;gt; &lt;/p&gt;
+&lt;p&gt;..&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http: //图片地址&quot; alt=&quot;图片名称&quot;&gt;&lt;br&gt;&lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; 
       
     
     </summary>
