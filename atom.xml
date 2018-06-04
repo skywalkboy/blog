@@ -48,9 +48,9 @@
     <link href="chenrongrong.info/2018/05/30/interview-in-all/"/>
     <id>chenrongrong.info/2018/05/30/interview-in-all/</id>
     <published>2018-05-30T03:03:12.000Z</published>
-    <updated>2018-06-01T04:49:13.604Z</updated>
+    <updated>2018-06-04T12:26:54.601Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>Hash table based implementation of the <tt>Map</tt> interface.  This<br>implementation provides all of the optional map operations, and permits</p><p><tt>null</tt> values and the <tt>null</tt> key.  (The <tt>HashMap</tt><br>class is roughly equivalent to <tt>Hashtable</tt>, except that it is<br>unsynchronized and permits nulls</p></blockquote><h1 id="This-is-first-blog"><a href="#This-is-first-blog" class="headerlink" title="This is first blog"></a>This is first blog</h1>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>Hash table based implementation of the <tt>Map</tt> interface.  This<br>implementation provides all of the optional map operations, and permits</p><p><tt>null</tt> values and the <tt>null</tt> key.  (The <tt>HashMap</tt><br>class is roughly equivalent to <tt>Hashtable</tt>, except that it is<br>unsynchronized and permits nulls</p></blockquote><p>看了公众号面试文章的推送，发现里面的面试题都挺有针对性的，可以参加借鉴，下次也许被面或者面人或者自我学习都能用的上</p><h3 id="JAVA基础相关"><a href="#JAVA基础相关" class="headerlink" title="JAVA基础相关"></a>JAVA基础相关</h3><ul><li>ThreadLocal如果引用一个static变量是不是线程安全的</li></ul><h3 id="JVM相关"><a href="#JVM相关" class="headerlink" title="JVM相关"></a>JVM相关</h3><ul><li>G1和CMS的区别，G1有啥劣势</li><li></li></ul><h3 id="JAVA线程相关"><a href="#JAVA线程相关" class="headerlink" title="JAVA线程相关"></a>JAVA线程相关</h3><ul><li>自旋锁/偏向锁/轻量级锁</li></ul><h3 id="框架架构相关"><a href="#框架架构相关" class="headerlink" title="框架架构相关"></a>框架架构相关</h3><ul><li>Netty的一次请求过程</li><li>kafka和rocketmq各自的优缺点</li><li>dubbo的一个请求过程</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>知识需要深入</p>]]></content>
     
     <summary type="html">
     
@@ -66,33 +66,6 @@
     
     
       <category term="面试题" scheme="chenrongrong.info/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="chenrongrong.info/2018/05/27/hello-world/"/>
-    <id>chenrongrong.info/2018/05/27/hello-world/</id>
-    <published>2018-05-27T07:19:51.513Z</published>
-    <updated>2018-06-01T04:43:33.747Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>引用语法：&gt; </p><p>..</p></blockquote><p><img src="http: //图片地址" alt="图片名称"><br><a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a></p><blockquote><p>1 test</p><blockquote><p>2</p><blockquote><p>3</p></blockquote></blockquote></blockquote><p><code>Welcome</code> to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find thxe answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;引用语法：&amp;gt; &lt;/p&gt;
-&lt;p&gt;..&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http: //图片地址&quot; alt=&quot;图片名称&quot;&gt;&lt;br&gt;&lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; 
-      
-    
-    </summary>
-    
-    
-      <category term="Test" scheme="chenrongrong.info/tags/Test/"/>
     
   </entry>
   
