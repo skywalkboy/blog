@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="chenrongrong.info/"/>
-  <updated>2018-06-04T12:35:13.130Z</updated>
+  <updated>2018-07-13T07:18:08.880Z</updated>
   <id>chenrongrong.info/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>常用的linux日志查看命令</title>
+    <link href="chenrongrong.info/2018/07/13/linux%20command/"/>
+    <id>chenrongrong.info/2018/07/13/linux command/</id>
+    <published>2018-07-13T07:14:12.000Z</published>
+    <updated>2018-07-13T07:18:08.880Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="linux" scheme="chenrongrong.info/categories/linux/"/>
+    
+    
+      <category term="linux 命令" scheme="chenrongrong.info/tags/linux-%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
   
   <entry>
     <title>dubbo_reload_balance</title>
