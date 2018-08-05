@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="chenrongrong.info/"/>
-  <updated>2018-07-13T07:18:08.880Z</updated>
+  <updated>2018-08-05T10:44:59.605Z</updated>
   <id>chenrongrong.info/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>spring启动时执行自定义逻辑的N种方法</title>
+    <link href="chenrongrong.info/2018/08/05/run-login-on-startup-in-spring/"/>
+    <id>chenrongrong.info/2018/08/05/run-login-on-startup-in-spring/</id>
+    <published>2018-08-05T10:18:39.000Z</published>
+    <updated>2018-08-05T10:44:59.605Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>当我们需要在spring启动时或者启动后加载自己的业务逻辑，我们会怎么做，实现<br>InitializingBean,方法上注释@PostConstruct或者是实现ApplicationListener。 </p></blockquote><h2 id="1-InitializingBean"><a href="#1-InitializingBean" class="headerlink" title="1. InitializingBean"></a>1. InitializingBean</h2><h2 id="2-PostConstruct"><a href="#2-PostConstruct" class="headerlink" title="2. @PostConstruct"></a>2. @PostConstruct</h2><h2 id="3-ApplicationListener"><a href="#3-ApplicationListener" class="headerlink" title="3. ApplicationListener"></a>3. ApplicationListener</h2><h2 id="4-Bean-initMethod"><a href="#4-Bean-initMethod" class="headerlink" title="4. @Bean initMethod"></a>4. @Bean initMethod</h2><h2 id="5-Constructor-Injection"><a href="#5-Constructor-Injection" class="headerlink" title="5. Constructor Injection"></a>5. Constructor Injection</h2><h2 id="6-CommandLineRunner"><a href="#6-CommandLineRunner" class="headerlink" title="6. CommandLineRunner"></a>6. CommandLineRunner</h2><h2 id="7-ApplicationRunner"><a href="#7-ApplicationRunner" class="headerlink" title="7. ApplicationRunner"></a>7. ApplicationRunner</h2><p>参考:<a href="http://www.baeldung.com/running-setup-logic-on-startup-in-spring" target="_blank" rel="noopener">baeldung.com</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;当我们需要在spring启动时或者启动后加载自己的业务逻辑，我们会怎么做，实现&lt;br&gt;InitializingBean,方法上注释@PostConstruct或者是实现ApplicationListener。 &lt;/p&gt;
+&lt;/blockquote&gt;
+
+      
+    
+    </summary>
+    
+      <category term="java" scheme="chenrongrong.info/categories/java/"/>
+    
+    
+      <category term="spring启动时加载数据" scheme="chenrongrong.info/tags/spring%E5%90%AF%E5%8A%A8%E6%97%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>常用的linux日志查看命令</title>
